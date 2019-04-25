@@ -1,0 +1,8 @@
+{
+  "name": "六爻预测API文档",
+  "version": "1.0.0",
+  "description": "基于增删卜易的六爻预测系统",
+  "template": {
+    "forceLanguage": "en"
+  }
+}
